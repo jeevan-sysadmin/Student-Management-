@@ -1,3 +1,3 @@
-# Student-Management-
+# Student Management System Project Asp.net MVC
+
 __________________________
-Student Management System Project Asp.net MVC
